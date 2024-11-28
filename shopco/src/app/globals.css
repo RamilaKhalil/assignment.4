@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'integralcf';
+  src: url(fonts/integralcf-bold.woff);
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url(fonts/Satoshi-Bold.woff);
+}
+
+
+
+
+
+  
